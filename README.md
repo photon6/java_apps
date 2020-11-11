@@ -2,6 +2,6 @@
 
 In this repo you'll find some tips and examples I found useful.
 
-- Maven in IntelliJ (link TBD)
+- Maven in IntelliJ (https://github.com/photon6/java_apps/wiki/Maven-in-IntelliJ)
 
 
